@@ -20,3 +20,4 @@ drwxr-xr-x  2 qurrata.ayuna StafCS 4096 Feb 14 16:06 week09
 drwxr-xr-x  2 qurrata.ayuna StafCS 4096 Feb 14 16:06 week10
 drwxr-xr-x  2 qurrata.ayuna StafCS 4096 Feb 14 16:07 xtra
 /home/fasilkom/mahasiswa/q/qurrata.ayuna/os171/week01
+Today is 14 Feb 2017 at 17:10:40
