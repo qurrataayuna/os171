@@ -1,0 +1,6 @@
+#qurrataayuna
+description week01:
+- practicing pull and push
+- making directory, file 
+- deleting file
+- move file
