@@ -1,0 +1,6 @@
+#QurrataAyuna
+task week00:
+- creating google account
+- creating github account
+- fill out gform
+
